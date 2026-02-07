@@ -7,7 +7,6 @@ import {
   Typography,
 } from '@mui/material';
 import { AddPhotoAlternate } from '@mui/icons-material';
-import { useAuth } from '../context/AuthContext';
 import { postsAPI } from '../services/api';
 
 const CreatePost = ({ onPostCreated }) => {
