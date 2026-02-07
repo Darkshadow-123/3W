@@ -1,0 +1,33 @@
+[33mcommit 5cb2991c82397014e6fb4001902009073003e037[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Rishi Lalwani <rishi.123.lalwani@gmail.com>
+Date:   Sat Feb 7 20:24:53 2026 +0530
+
+    Initial commit: add backend and frontend
+
+D	social-post-app/frontend
+A	social-post-app/frontend/.gitignore
+A	social-post-app/frontend/README.md
+A	social-post-app/frontend/package-lock.json
+A	social-post-app/frontend/package.json
+A	social-post-app/frontend/public/favicon.ico
+A	social-post-app/frontend/public/index.html
+A	social-post-app/frontend/public/logo192.png
+A	social-post-app/frontend/public/logo512.png
+A	social-post-app/frontend/public/manifest.json
+A	social-post-app/frontend/public/robots.txt
+A	social-post-app/frontend/src/App.css
+A	social-post-app/frontend/src/App.js
+A	social-post-app/frontend/src/App.test.js
+A	social-post-app/frontend/src/components/CreatePost.js
+A	social-post-app/frontend/src/components/Feed.js
+A	social-post-app/frontend/src/components/Login.js
+A	social-post-app/frontend/src/components/Navbar.js
+A	social-post-app/frontend/src/components/Post.js
+A	social-post-app/frontend/src/components/Signup.js
+A	social-post-app/frontend/src/context/AuthContext.js
+A	social-post-app/frontend/src/index.css
+A	social-post-app/frontend/src/index.js
+A	social-post-app/frontend/src/logo.svg
+A	social-post-app/frontend/src/reportWebVitals.js
+A	social-post-app/frontend/src/services/api.js
+A	social-post-app/frontend/src/setupTests.js
