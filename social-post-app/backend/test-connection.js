@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const MONGODB_URI = 'mongodb+srv://rishi:Rishi121@cluster0.uaicufx.mongodb.net/social-post-app?appName=Cluster0';
+const MONGODB_URI =process.env.MONGODB_URI;
 
 console.log('Testing MongoDB connection...');
 
